@@ -1,2 +1,4 @@
 C:\Cobol\COBCMS00\bin\x86\Debug\Program1.idy
 C:\Cobol\COBCMS00\obj\x86\Debug\Program1.idy
+C:\IHCC\Cobol\COBCMS00\bin\x86\Debug\Program1.idy
+C:\IHCC\Cobol\COBCMS00\obj\x86\Debug\Program1.idy
