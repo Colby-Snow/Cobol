@@ -149,7 +149,7 @@
            MOVE C-SCTR TO O-SCTR.
 
            WRITE PRTLINE FROM TOTAL-LINE
-               AFTER ADVANCING 2 LINES.
+               AFTER ADVANCING 3 LINES.
 
            CLOSE STUDENT-MASTER.
            CLOSE PRTOUT.
