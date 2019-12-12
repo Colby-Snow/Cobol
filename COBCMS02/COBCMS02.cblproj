@@ -2,10 +2,10 @@
   <PropertyGroup>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
-    <ProjectGuid>{C575E050-94BE-4C43-81DB-2A78FF024707}</ProjectGuid>
-    <OutputName>COBCMS01</OutputName>
+    <ProjectGuid>{5A6916D9-80D5-462B-9130-CC92A5247794}</ProjectGuid>
+    <OutputName>COBCMS02</OutputName>
     <OutputType>IntGnt</OutputType>
-    <RootNamespace>COBCMS01</RootNamespace>
+    <RootNamespace>COBCMS02</RootNamespace>
     <MFProjectType>Native</MFProjectType>
     <IncludeInLibrary>True</IncludeInLibrary>
   </PropertyGroup>
@@ -25,7 +25,7 @@
     <Optimize>True</Optimize>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="COBCMS01.cbl" />
+    <Compile Include="COBCMS02.cbl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Micro Focus\Visual COBOL\v1.0\MicroFocus.COBOL.targets" />
 </Project>
