@@ -1,0 +1,2 @@
+C:\IHCC\Cobol\COBCMS02\bin\x86\Debug\COBCMS02.idy
+C:\IHCC\Cobol\COBCMS02\obj\x86\Debug\COBCMS02.idy

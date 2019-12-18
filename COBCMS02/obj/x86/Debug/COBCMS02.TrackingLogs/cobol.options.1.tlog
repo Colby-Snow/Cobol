@@ -1,0 +1,2 @@
+^C:\IHCC\COBOL\COBCMS02\COBCMS02.CBL
+MFCBT_Directives=int"C:.\bin\x86\Debug\COBCMS02.int" anim cobidy"obj\x86\Debug\" sourcetabstop"4" noquery warnings"1" max-error"100" noobj"C:.\bin\x86\Debug\COBCMS02.int" xtraint . MFCBT_CopyPaths=
